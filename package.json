@@ -1,7 +1,5 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Jeel Gajera",
-  "description" : "Managing Package with npm test on FCC",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
