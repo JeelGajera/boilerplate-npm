@@ -3,6 +3,11 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"author": "Jeel Gajera",
+ 	"description" : "Managing Package with npm test on FCC",
+ 	"keywords" : ["freecodecamp", "Node.js", "package", "back-end"],
+ 	"license" : "BSD",
+ 	"version" : "1.0.1",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
